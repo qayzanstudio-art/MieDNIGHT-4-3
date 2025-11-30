@@ -1,0 +1,21 @@
+{
+  "name": "Mie-dNight POS",
+  "short_name": "Mie-dNight",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#FDFBF6",
+  "theme_color": "#146b61",
+  "description": "Aplikasi Kasir Warmindo Mie-dNight",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3448/3448609.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3448/3448609.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
